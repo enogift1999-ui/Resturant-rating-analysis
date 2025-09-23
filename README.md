@@ -4,6 +4,14 @@
 ## Introduction:
 This project explores the Restaurant Rating Dataset, which contains survey-based data collected in Mexico (2012), focusing on restaurant types, cuisines offered, customer demographics, and consumer preferences. Acting as a Data Analyst, contracted to analyze this dataset and extract actionable insights to guide entrepreneurs and investors in making informed decisions regarding new restaurant ventures. The analysis focuses on identifying demand-supply gaps, satisfaction levels by cuisine, and the alignment between consumer preferences and available offerings.
 
+## Data Sourcing:
+Find the the link to the restaurant rating dataset here. [Here](https://drive.google.com/file/d/1c1HKM8UTqwWOgexRLOtEJuxjBiA2N6xf/view?usp=drive_link)
+
+## Data Modelling
+This data was modelled using one to many relationship because of the presence of foreign keys. 
+
+![](https://github.com/enogift1999-ui/Resturant-rating-analysis/blob/main/data%20model.png)
+
 ## Key Metrics: 
 - Average rating per cuisine.
 - Number of restaurants per cuisine.
