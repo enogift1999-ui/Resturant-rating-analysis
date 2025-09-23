@@ -106,3 +106,7 @@ This analysis reveals clear opportunities for restaurant investment in Mexico's 
 - Explore niche cuisines (e.g., Turkish, Ethiopian, Sushi) in under-served areas to capture loyal niche audiences with minimal competition.
 - Avoid oversaturated cuisines (e.g., Brewery, Mediterranean) for now, as they show balanced supply-demand and limited immediate growth potential.
 - Focus on scalability, especially for mainstream categories with repeatable models that can expand across multiple locations.
+
+Conect with me on socials:
+[LinkedIn](https://www.linkedin.com/in/nnamani-gift-303a7b1ba/)
+[Github](https://github.com/enogift1999-ui)
